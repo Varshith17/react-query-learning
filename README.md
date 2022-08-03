@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Getting Started with React Query
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Rect-query makes fetching, caching, synchronizing and updating server state in your React applications a breeze.
+
+Documentation:  [React Query](https://react-query-v3.tanstack.com/).
 
 ## Available Scripts
 
